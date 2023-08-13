@@ -1,1 +1,4 @@
-# csharp-01-aula_4
+# Primeiro Projeto Alura
+> Status: Concluído 
+
+Projeto desenvolvido para estudo de C#
